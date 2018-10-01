@@ -1,6 +1,6 @@
 # Guestbook
 
-I attended [Hacktobefest Birmingham 2016](https://www.eventbrite.co.uk/e/hacktoberfest-birmingham-2016-registration-28429964790) at Birmingham City University
+I attended [Hacktoberfest Birmingham 2016](https://www.eventbrite.co.uk/e/hacktoberfest-birmingham-2016-registration-28429964790) at Birmingham City University
 
 And this is my first pull request :octocat:!
 
